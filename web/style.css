@@ -1,0 +1,16 @@
+/* Estilos del Proyecto T4 */
+
+/* Cabecera */
+header {
+  background-color: #1f4e8c;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+
+/* Menú */
+nav a {
+  color: white;
+  margin: 0 10px;
+  text-decoration: none;
+}
