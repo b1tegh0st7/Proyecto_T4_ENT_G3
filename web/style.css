@@ -14,3 +14,20 @@ nav a {
   margin: 0 10px;
   text-decoration: none;
 }
+
+/* Contenido principal */
+main {
+  width: 80%;
+  margin: 20px auto;
+}
+
+section {
+  background-color: white;
+  border: 1px solid #cccccc;
+  padding: 15px;
+  margin-bottom: 20px;
+}
+
+h2 {
+  color: #1f4e8c;
+}
